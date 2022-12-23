@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "js-compiler": "^1.0.4"
+  }
+}

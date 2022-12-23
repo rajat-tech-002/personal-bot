@@ -1,0 +1,27 @@
+{
+  "name": "js-parser-utils",
+  "version": "1.0.0",
+  "description": "Parser level utilities for the js-compiler.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://ajuhos@github.com/WeAreBreak/js-parser-utils.git"
+  },
+  "keywords": [
+    "javascript",
+    "compiler",
+    "parser",
+    "util",
+    "utility",
+    "helper"
+  ],
+  "author": "We Are Break <ajuhos@we-are-break.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WeAreBreak/js-parser-utils/issues"
+  },
+  "homepage": "https://github.com/WeAreBreak/js-parser-utils"
+}
